@@ -1,0 +1,1180 @@
+-----------------fiche1-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Total Odds: 1.6563689999999998 
+Potential Gain: 0.12685433260399992
+------------------------------------------------
+
+
+-----------------fiche2-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Total Odds: 1.6016129999999997 
+Potential Gain: 0.07663148602099978
+------------------------------------------------
+
+
+-----------------fiche3-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: 0.08206397935999976
+------------------------------------------------
+
+
+-----------------fiche4-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: 0.0685381796179998
+------------------------------------------------
+
+
+-----------------fiche5-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7111249999999998 
+Potential Gain: 0.011663300374999963
+------------------------------------------------
+
+
+-----------------fiche6-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6016129999999997 
+Potential Gain: -0.130911932971
+------------------------------------------------
+
+
+-----------------fiche7-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Total Odds: 1.6563689999999998 
+Potential Gain: 0.05088662478799977
+------------------------------------------------
+
+
+-----------------fiche8-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Total Odds: 1.7271539999999999 
+Potential Gain: 0.05618921407999977
+------------------------------------------------
+
+
+-----------------fiche9-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.7271539999999999 
+Potential Gain: 0.04298684890399995
+------------------------------------------------
+
+
+-----------------fiche10-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.769625 
+Potential Gain: -0.012528014500000073
+------------------------------------------------
+
+
+-----------------fiche11-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6563689999999998 
+Potential Gain: -0.15169392938800008
+------------------------------------------------
+
+
+-----------------fiche12-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: 0.00911584591999981
+------------------------------------------------
+
+
+-----------------fiche13-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.003498102154000149
+------------------------------------------------
+
+
+-----------------fiche14-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7111249999999998 
+Potential Gain: -0.05653871987500014
+------------------------------------------------
+
+
+-----------------fiche15-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6016129999999997 
+Potential Gain: -0.18950213973700003
+------------------------------------------------
+
+
+-----------------fiche16-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.7414279999999998 
+Potential Gain: 0.0015300713599999405
+------------------------------------------------
+
+
+-----------------fiche17-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7842499999999997 
+Potential Gain: -0.05177818000000012
+------------------------------------------------
+
+
+-----------------fiche18-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.18541250992000002
+------------------------------------------------
+
+
+-----------------fiche19-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7842499999999997 
+Potential Gain: -0.06363095275000019
+------------------------------------------------
+
+
+-----------------fiche20-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.19559485354600004
+------------------------------------------------
+
+
+-----------------fiche21-----------------------
+Match: Bangu vs Flamengo 
+Prediction: X2 
+Odds: 1.17 
+Probability: 91% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.7111249999999998 
+Potential Gain: -0.23841077387499998
+------------------------------------------------
+
+
+-----------------fiche22-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Total Odds: 1.6563689999999998 
+Potential Gain: 0.027790215452
+------------------------------------------------
+
+
+-----------------fiche23-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Total Odds: 1.7271539999999999 
+Potential Gain: 0.032976264320000004
+------------------------------------------------
+
+
+-----------------fiche24-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.7271539999999999 
+Potential Gain: 0.02006406101599989
+------------------------------------------------
+
+
+-----------------fiche25-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.769625 
+Potential Gain: -0.03423069550000002
+------------------------------------------------
+
+
+-----------------fiche26-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6563689999999998 
+Potential Gain: -0.17033801885199995
+------------------------------------------------
+
+
+-----------------fiche27-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.013062524320000102
+------------------------------------------------
+
+
+-----------------fiche28-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.02539924276600014
+------------------------------------------------
+
+
+-----------------fiche29-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7111249999999998 
+Potential Gain: -0.07727413262500016
+------------------------------------------------
+
+
+-----------------fiche30-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6016129999999997 
+Potential Gain: -0.2073152795230001
+------------------------------------------------
+
+
+-----------------fiche31-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.7414279999999998 
+Potential Gain: -0.020481578560000213
+------------------------------------------------
+
+
+-----------------fiche32-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7842499999999997 
+Potential Gain: -0.07261822000000018
+------------------------------------------------
+
+
+-----------------fiche33-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.20331553168000016
+------------------------------------------------
+
+
+-----------------fiche34-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7842499999999997 
+Potential Gain: -0.08421049225000021
+------------------------------------------------
+
+
+-----------------fiche35-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.21327408753400012
+------------------------------------------------
+
+
+-----------------fiche36-----------------------
+Match: Dender vs KRC Genk II 
+Prediction: +1.5 
+Odds: 1.17 
+Probability: 89% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.7111249999999998 
+Potential Gain: -0.25514899862500007
+------------------------------------------------
+
+
+-----------------fiche37-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Total Odds: 1.7271539999999999 
+Potential Gain: -0.03666258496000008
+------------------------------------------------
+
+
+-----------------fiche38-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.7271539999999999 
+Potential Gain: -0.048704302648000075
+------------------------------------------------
+
+
+-----------------fiche39-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.769625 
+Potential Gain: -0.09933873850000008
+------------------------------------------------
+
+
+-----------------fiche40-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6563689999999998 
+Potential Gain: -0.226270287244
+------------------------------------------------
+
+
+-----------------fiche41-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.800964 
+Potential Gain: -0.043904231680000017
+------------------------------------------------
+
+
+-----------------fiche42-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.84525 
+Potential Gain: -0.09479416000000007
+------------------------------------------------
+
+
+-----------------fiche43-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.7271539999999999 
+Potential Gain: -0.22236618304
+------------------------------------------------
+
+
+-----------------fiche44-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.84525 
+Potential Gain: -0.10610923300000008
+------------------------------------------------
+
+
+-----------------fiche45-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.7271539999999999 
+Potential Gain: -0.23208660575200002
+------------------------------------------------
+
+
+-----------------fiche46-----------------------
+Match: EC Lemense vs Novorizontino 
+Prediction: 12 
+Odds: 1.21 
+Probability: 84% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.7696249999999998 
+Potential Gain: -0.2729601865
+------------------------------------------------
+
+
+-----------------fiche47-----------------------
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Total Odds: 1.7414279999999998 
+Potential Gain: -0.08651652832000012
+------------------------------------------------
+
+
+-----------------fiche48-----------------------
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7842499999999997 
+Potential Gain: -0.13513834000000013
+------------------------------------------------
+
+
+-----------------fiche49-----------------------
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.25702459696
+------------------------------------------------
+
+
+-----------------fiche50-----------------------
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.7842499999999997 
+Potential Gain: -0.14594911075000006
+------------------------------------------------
+
+
+-----------------fiche51-----------------------
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.6700579999999996 
+Potential Gain: -0.26631178949799994
+------------------------------------------------
+
+
+-----------------fiche52-----------------------
+Match: Atlético Bucaramanga vs Envigado 
+Prediction: -3.5 
+Odds: 1.17 
+Probability: 83% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.7111249999999998 
+Potential Gain: -0.305363672875
+------------------------------------------------
+
+
+-----------------fiche53-----------------------
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Total Odds: 1.8605 
+Potential Gain: -0.14163972000000002
+------------------------------------------------
+
+
+-----------------fiche54-----------------------
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.7414279999999998 
+Potential Gain: -0.26260972768
+------------------------------------------------
+
+
+-----------------fiche55-----------------------
+Match: Patronato vs Gimnasia y Tiro 
+Prediction: 12 
+Odds: 1.22 
+Probability: 80% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.78425 
+Potential Gain: -0.30185866000000006
+------------------------------------------------
+
+
+-----------------fiche56-----------------------
+Match: Corinthians vs Guarani 
+Prediction: -3.5 
+Odds: 1.22 
+Probability: 79% 
+
+Match: Guanacasteca vs Alajuelense 
+Prediction: 12 
+Odds: 1.25 
+Probability: 73% 
+
+Match: Turan vs Qarabağ 
+Prediction: 2 
+Odds: 1.17 
+Probability: 67% 
+
+Total Odds: 1.78425 
+Potential Gain: -0.31058542675
+------------------------------------------------
+
+
+
+
+
+End of Combination Results

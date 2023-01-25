@@ -1,0 +1,137 @@
+/* reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* global styles */
+body {
+    font-family: "Open Sans", sans-serif;
+    background-color: #f7f7f7;
+    color: #222;
+}
+
+/* header styles */
+header {
+    background-color: #2b2d42;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 0;
+}
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    /* background-color: #3f3f3f; */
+}
+
+.navbar__brand {
+    flex: 1;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(225, 226, 236);
+    text-decoration: none;
+}
+
+.navbar__menu {
+    flex: 2;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.navbar__menu-items {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar__menu-item {
+    margin-right: 20px;
+}
+
+.navbar__menu-item a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    transition: all 0.2s ease-in-out;
+}
+
+.navbar__menu-item a:hover {
+    color: #ffd900;
+}
+
+.navbar__cta {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.navbar__cta-button {
+    background-color: #ffd900;
+    color: #3f3f3f;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 16px;
+    transition: all 0.2s ease-in-out;
+}
+
+.navbar__cta-button:hover {
+    background-color: #fff;
+    color: #3f3f3f;
+}
+
+
+
+
+/* container styles */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+}
+
+th, td {
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f7f7f7;
+    text-align: left;
+}
+
+/* button styles */
+.button {
+    background-color: #2b2d42;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+.button:hover {
+    background-color: #555;
+    cursor: pointer;
+}

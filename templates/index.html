@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Prédictions de football 11</title>
+    <link rel="stylesheet" href="../static/style.css">
+  </head>
+  <body>
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <div class="navbar__brand">
+                  <a href="#">Mon site</a>
+                </div>
+                <div class="navbar__menu">
+                  <ul class="navbar__menu-items">
+                    <li class="navbar__menu-item">
+                      <a href="#">Accueil</a>
+                    </li>
+                    <li class="navbar__menu-item">
+                      <a href="#">A propos</a>
+                    </li>
+                    <li class="navbar__menu-item">
+                      <a href="#">Services</a>
+                    </li>
+                    <li class="navbar__menu-item">
+                      <a href="#">Contact</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="navbar__cta">
+                  <a href="#" class="navbar__cta-button">Inscrivez-vous</a>
+                </div>
+              </nav>
+              
+        </div>
+    </header>
+    <section class="hero">
+        <div class="container">
+            <h1>Prédictions de football</h1>
+        </div>
+    </section>
+    <section class="predictions">
+        <div class="container">
+            <table>
+                <tr>
+                    <th>Equipe à domicile</th>
+                    <th>Equipe extérieure</th>
+                    <th>Compétition</th>
+                    <th>Prédiction</th>
+                    <th>Cote</th>
+                </tr>
+                {% for prediction in predictions %}
+                <tr>
+                    <td>{{ prediction.home_team }}</td>
+                    <td>{{ prediction.away_team }}</td>
+                    <td>{{ prediction.competition_name }}</td>
+                    <td>{{ prediction.prediction }}</td>
+                    <td>{{ prediction.odds[prediction.prediction] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </section>
+    <footer>
+        <div class="container">
+            <p>Copyright © 2021 Prédictions de football</p>
+        </div>
+    </footer>
+  </body>
+</html>
